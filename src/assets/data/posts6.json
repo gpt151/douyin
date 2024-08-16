@@ -1,9 +1,4 @@
-{
-    "status_code": 0,
-    "min_cursor": 0,
-    "max_cursor": 1695296263000,
-    "has_more": 1,
-    "aweme_list": [
+ [
         {
             "aweme_id": "7265546881344883983",
             "desc": "#月亮警告 完整版#小说推文",
@@ -18684,11 +18679,4 @@
     "time_list": null,
     "log_pb": {
         "impr_id": "20240816120025A63B5C91EC450301C7C4"
-    },
-    "has_locate_item": true,
-    "locate_item_available": true,
-    "locate_item_cursor": 1683809179000,
-    "request_item_cursor": 0,
-    "post_serial": 2,
-    "replace_series_cover": 1
-}
+    }
